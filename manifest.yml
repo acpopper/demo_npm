@@ -1,0 +1,5 @@
+applications:
+- name: natural-language-classifier-demo
+  command: npm start
+  path: .
+  memory: 512M
